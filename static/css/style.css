@@ -1,0 +1,38 @@
+h1{
+    color:crimson
+}
+
+form{
+    border: 1px solid #360033;
+    width: 30em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15%;
+}
+.header{
+    padding: 20px;
+    background: linear-gradient(to right,#360033,#0b8793,#360033);
+    height: 5rem;
+    font-size: 26px !important;
+    font-weight: 900 !important;
+}
+input, input:focus{
+    outline: none;
+    border: none !important;
+}
+input:focus{
+    outline: none !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+button{
+    width: 100%;
+  
+    background: linear-gradient(to right,#360033,#0b8793);
+    border-radius: 0 !important;
+    border: none;
+    outline: none;
+    font-size: 21px !important;
+    font-weight: 900 !important;
+}
+
